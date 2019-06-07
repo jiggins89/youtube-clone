@@ -1,0 +1,10 @@
+.my-item {
+  display: flex !important;
+  align-items: center;
+  cursor: pointer;
+
+}
+
+.header {
+  padding: 10px;
+}
